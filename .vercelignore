@@ -1,0 +1,12 @@
+node_modules
+.agents
+docs
+logs
+*.pptx
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.bak
+.git
+.opencode

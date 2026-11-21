@@ -1,0 +1,1372 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<p:sld xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main">
+<p:cSld>
+<p:bg>
+<p:bgPr>
+<a:solidFill>
+<a:schemeClr val="lt1"/>
+</a:solidFill>
+<a:effectLst/>
+</p:bgPr>
+</p:bg>
+<p:spTree>
+<p:nvGrpSpPr>
+<p:cNvPr id="1" name=""/>
+<p:cNvGrpSpPr/>
+<p:nvPr/>
+</p:nvGrpSpPr>
+<p:grpSpPr>
+<a:xfrm>
+<a:off x="0" y="0"/>
+<a:ext cx="0" cy="0"/>
+<a:chOff x="0" y="0"/>
+<a:chExt cx="0" cy="0"/>
+</a:xfrm>
+</p:grpSpPr>
+<p:sp>
+<p:nvSpPr>
+<p:cNvPr id="2" name="Title 1"/>
+<p:cNvSpPr>
+<a:spLocks noGrp="1"/>
+</p:cNvSpPr>
+<p:nvPr>
+<p:ph type="title"/>
+</p:nvPr>
+</p:nvSpPr>
+<p:spPr/>
+<p:txBody>
+<a:bodyPr>
+<a:noAutofit/>
+</a:bodyPr>
+<a:lstStyle/>
+<a:p>
+<a:pPr algn="ctr"/>
+<a:r>
+<a:rPr lang="en-US" sz="4400" dirty="0"/>
+<a:t>Feasibility and Viability</a:t>
+</a:r>
+<a:endParaRPr lang="en-US" dirty="0"/>
+</a:p>
+</p:txBody>
+</p:sp>
+<p:sp>
+<p:nvSpPr>
+<p:cNvPr id="4" name="Slide Number Placeholder 3"/>
+<p:cNvSpPr>
+<a:spLocks noGrp="1"/>
+</p:cNvSpPr>
+<p:nvPr>
+<p:ph type="sldNum" idx="12"/>
+</p:nvPr>
+</p:nvSpPr>
+<p:spPr/>
+<p:txBody>
+<a:bodyPr/>
+<a:lstStyle/>
+<a:p>
+<a:pPr marL="0" lvl="0" indent="0" algn="r" rtl="0">
+<a:spcBef>
+<a:spcPts val="0"/>
+</a:spcBef>
+<a:spcAft>
+<a:spcPts val="0"/>
+</a:spcAft>
+<a:buNone/>
+</a:pPr>
+<a:fld id="{00000000-1234-1234-1234-123412341234}" type="slidenum">
+<a:rPr lang="en-US" smtClean="0"/>
+<a:t>7</a:t>
+</a:fld>
+<a:endParaRPr lang="en-US" dirty="0"/>
+</a:p>
+</p:txBody>
+</p:sp>
+<p:sp>
+<p:nvSpPr>
+<p:cNvPr id="3" name="Date Placeholder 2"/>
+<p:cNvSpPr>
+<a:spLocks noGrp="1"/>
+</p:cNvSpPr>
+<p:nvPr>
+<p:ph type="dt" idx="10"/>
+</p:nvPr>
+</p:nvSpPr>
+<p:spPr/>
+<p:txBody>
+<a:bodyPr/>
+<a:lstStyle/>
+<a:p>
+<a:r>
+<a:rPr lang="en-US"/>
+<a:t>Sakthi hackathon 1.0</a:t>
+</a:r>
+<a:endParaRPr lang="en-US" dirty="0"/>
+</a:p>
+</p:txBody>
+</p:sp>
+<p:sp>
+<p:nvSpPr>
+<p:cNvPr id="6" name="Rectangle: Rounded Corners 5">
+<a:extLst>
+<a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+<a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{884526CF-DF1F-0225-18B9-6FD62BD10570}"/>
+</a:ext>
+</a:extLst>
+</p:cNvPr>
+<p:cNvSpPr/>
+<p:nvPr/>
+</p:nvSpPr>
+<p:spPr>
+<a:xfrm>
+<a:off x="172050" y="1402126"/>
+<a:ext cx="2843784" cy="1879048"/>
+</a:xfrm>
+<a:prstGeom prst="roundRect">
+<a:avLst/>
+</a:prstGeom>
+<a:noFill/>
+<a:effectLst>
+<a:outerShdw blurRad="50800" dist="50800" sx="1000" sy="1000" algn="ctr" rotWithShape="0">
+<a:srgbClr val="000000"/>
+</a:outerShdw>
+</a:effectLst>
+<a:scene3d>
+<a:camera prst="orthographicFront"/>
+<a:lightRig rig="threePt" dir="t"/>
+</a:scene3d>
+<a:sp3d>
+<a:bevelT prst="angle"/>
+</a:sp3d>
+</p:spPr>
+<p:style>
+<a:lnRef idx="2">
+<a:schemeClr val="accent6"/>
+</a:lnRef>
+<a:fillRef idx="1">
+<a:schemeClr val="lt1"/>
+</a:fillRef>
+<a:effectRef idx="0">
+<a:schemeClr val="accent6"/>
+</a:effectRef>
+<a:fontRef idx="minor">
+<a:schemeClr val="dk1"/>
+</a:fontRef>
+</p:style>
+<p:txBody>
+<a:bodyPr rtlCol="0" anchor="ctr"/>
+<a:lstStyle/>
+<a:p>
+<a:pPr algn="ctr"/>
+<a:endParaRPr lang="en-IN" dirty="0"/>
+</a:p>
+</p:txBody>
+</p:sp>
+<p:sp>
+<p:nvSpPr>
+<p:cNvPr id="8" name="Rectangle: Rounded Corners 7">
+<a:extLst>
+<a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+<a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{75FE4C1C-40E4-90C0-2739-48642FDA8348}"/>
+</a:ext>
+</a:extLst>
+</p:cNvPr>
+<p:cNvSpPr/>
+<p:nvPr/>
+</p:nvSpPr>
+<p:spPr>
+<a:xfrm>
+<a:off x="3223179" y="1365686"/>
+<a:ext cx="2843784" cy="1915488"/>
+</a:xfrm>
+<a:prstGeom prst="roundRect">
+<a:avLst/>
+</a:prstGeom>
+</p:spPr>
+<p:style>
+<a:lnRef idx="2">
+<a:schemeClr val="accent6"/>
+</a:lnRef>
+<a:fillRef idx="1">
+<a:schemeClr val="lt1"/>
+</a:fillRef>
+<a:effectRef idx="0">
+<a:schemeClr val="accent6"/>
+</a:effectRef>
+<a:fontRef idx="minor">
+<a:schemeClr val="dk1"/>
+</a:fontRef>
+</p:style>
+<p:txBody>
+<a:bodyPr rtlCol="0" anchor="ctr"/>
+<a:lstStyle/>
+<a:p>
+<a:pPr algn="ctr"/>
+<a:endParaRPr lang="en-IN"/>
+</a:p>
+</p:txBody>
+</p:sp>
+<p:sp>
+<p:nvSpPr>
+<p:cNvPr id="10" name="Rectangle: Rounded Corners 9">
+<a:extLst>
+<a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+<a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{622122C0-9715-D0CF-5E76-9C2A017EC32F}"/>
+</a:ext>
+</a:extLst>
+</p:cNvPr>
+<p:cNvSpPr/>
+<p:nvPr/>
+</p:nvSpPr>
+<p:spPr>
+<a:xfrm>
+<a:off x="4921760" y="3622443"/>
+<a:ext cx="3335272" cy="1879047"/>
+</a:xfrm>
+<a:prstGeom prst="roundRect">
+<a:avLst/>
+</a:prstGeom>
+</p:spPr>
+<p:style>
+<a:lnRef idx="2">
+<a:schemeClr val="accent6"/>
+</a:lnRef>
+<a:fillRef idx="1">
+<a:schemeClr val="lt1"/>
+</a:fillRef>
+<a:effectRef idx="0">
+<a:schemeClr val="accent6"/>
+</a:effectRef>
+<a:fontRef idx="minor">
+<a:schemeClr val="dk1"/>
+</a:fontRef>
+</p:style>
+<p:txBody>
+<a:bodyPr rtlCol="0" anchor="ctr"/>
+<a:lstStyle/>
+<a:p>
+<a:pPr algn="ctr"/>
+<a:endParaRPr lang="en-IN" dirty="0"/>
+</a:p>
+</p:txBody>
+</p:sp>
+<p:sp>
+<p:nvSpPr>
+<p:cNvPr id="12" name="Rectangle: Rounded Corners 11">
+<a:extLst>
+<a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+<a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{ED39C8AF-5219-1B26-0B35-2ACF3EC41284}"/>
+</a:ext>
+</a:extLst>
+</p:cNvPr>
+<p:cNvSpPr/>
+<p:nvPr/>
+</p:nvSpPr>
+<p:spPr>
+<a:xfrm>
+<a:off x="1049390" y="3634592"/>
+<a:ext cx="3423670" cy="1879047"/>
+</a:xfrm>
+<a:prstGeom prst="roundRect">
+<a:avLst/>
+</a:prstGeom>
+</p:spPr>
+<p:style>
+<a:lnRef idx="2">
+<a:schemeClr val="accent6"/>
+</a:lnRef>
+<a:fillRef idx="1">
+<a:schemeClr val="lt1"/>
+</a:fillRef>
+<a:effectRef idx="0">
+<a:schemeClr val="accent6"/>
+</a:effectRef>
+<a:fontRef idx="minor">
+<a:schemeClr val="dk1"/>
+</a:fontRef>
+</p:style>
+<p:txBody>
+<a:bodyPr rtlCol="0" anchor="ctr"/>
+<a:lstStyle/>
+<a:p>
+<a:pPr algn="ctr"/>
+<a:endParaRPr lang="en-IN"/>
+</a:p>
+</p:txBody>
+</p:sp>
+<p:sp>
+<p:nvSpPr>
+<p:cNvPr id="14" name="Rectangle: Rounded Corners 13">
+<a:extLst>
+<a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+<a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{98F89C48-ECF2-B730-420F-F573E3479CF1}"/>
+</a:ext>
+</a:extLst>
+</p:cNvPr>
+<p:cNvSpPr/>
+<p:nvPr/>
+</p:nvSpPr>
+<p:spPr>
+<a:xfrm>
+<a:off x="6206408" y="1365686"/>
+<a:ext cx="2843784" cy="1915488"/>
+</a:xfrm>
+<a:prstGeom prst="roundRect">
+<a:avLst/>
+</a:prstGeom>
+</p:spPr>
+<p:style>
+<a:lnRef idx="2">
+<a:schemeClr val="accent6"/>
+</a:lnRef>
+<a:fillRef idx="1">
+<a:schemeClr val="lt1"/>
+</a:fillRef>
+<a:effectRef idx="0">
+<a:schemeClr val="accent6"/>
+</a:effectRef>
+<a:fontRef idx="minor">
+<a:schemeClr val="dk1"/>
+</a:fontRef>
+</p:style>
+<p:txBody>
+<a:bodyPr rtlCol="0" anchor="ctr"/>
+<a:lstStyle/>
+<a:p>
+<a:pPr algn="ctr"/>
+<a:endParaRPr lang="en-IN"/>
+</a:p>
+</p:txBody>
+</p:sp>
+<p:sp>
+<p:nvSpPr>
+<p:cNvPr id="19" name="Oval 18">
+<a:extLst>
+<a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+<a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{DA483B73-A160-6799-8696-D0D0559B2AEC}"/>
+</a:ext>
+</a:extLst>
+</p:cNvPr>
+<p:cNvSpPr/>
+<p:nvPr/>
+</p:nvSpPr>
+<p:spPr>
+<a:xfrm>
+<a:off x="3099396" y="2185881"/>
+<a:ext cx="615734" cy="616367"/>
+</a:xfrm>
+<a:prstGeom prst="ellipse">
+<a:avLst/>
+</a:prstGeom>
+</p:spPr>
+<p:style>
+<a:lnRef idx="1">
+<a:schemeClr val="accent6"/>
+</a:lnRef>
+<a:fillRef idx="2">
+<a:schemeClr val="accent6"/>
+</a:fillRef>
+<a:effectRef idx="1">
+<a:schemeClr val="accent6"/>
+</a:effectRef>
+<a:fontRef idx="minor">
+<a:schemeClr val="dk1"/>
+</a:fontRef>
+</p:style>
+<p:txBody>
+<a:bodyPr rtlCol="0" anchor="ctr"/>
+<a:lstStyle/>
+<a:p>
+<a:pPr algn="ctr"/>
+<a:endParaRPr lang="en-IN" dirty="0"/>
+</a:p>
+</p:txBody>
+</p:sp>
+<p:sp>
+<p:nvSpPr>
+<p:cNvPr id="21" name="Oval 20">
+<a:extLst>
+<a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+<a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{DE5984B6-316B-0046-1D16-0305FAF930DE}"/>
+</a:ext>
+</a:extLst>
+</p:cNvPr>
+<p:cNvSpPr/>
+<p:nvPr/>
+</p:nvSpPr>
+<p:spPr>
+<a:xfrm>
+<a:off x="4782784" y="4294467"/>
+<a:ext cx="704088" cy="722376"/>
+</a:xfrm>
+<a:prstGeom prst="ellipse">
+<a:avLst/>
+</a:prstGeom>
+</p:spPr>
+<p:style>
+<a:lnRef idx="1">
+<a:schemeClr val="accent6"/>
+</a:lnRef>
+<a:fillRef idx="2">
+<a:schemeClr val="accent6"/>
+</a:fillRef>
+<a:effectRef idx="1">
+<a:schemeClr val="accent6"/>
+</a:effectRef>
+<a:fontRef idx="minor">
+<a:schemeClr val="dk1"/>
+</a:fontRef>
+</p:style>
+<p:txBody>
+<a:bodyPr rtlCol="0" anchor="ctr"/>
+<a:lstStyle/>
+<a:p>
+<a:pPr algn="ctr"/>
+<a:endParaRPr lang="en-IN" dirty="0"/>
+</a:p>
+</p:txBody>
+</p:sp>
+<p:sp>
+<p:nvSpPr>
+<p:cNvPr id="23" name="Oval 22">
+<a:extLst>
+<a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+<a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{E4686A05-45BC-DDA6-9282-876350D655D2}"/>
+</a:ext>
+</a:extLst>
+</p:cNvPr>
+<p:cNvSpPr/>
+<p:nvPr/>
+</p:nvSpPr>
+<p:spPr>
+<a:xfrm>
+<a:off x="953263" y="4294467"/>
+<a:ext cx="704088" cy="722376"/>
+</a:xfrm>
+<a:prstGeom prst="ellipse">
+<a:avLst/>
+</a:prstGeom>
+</p:spPr>
+<p:style>
+<a:lnRef idx="1">
+<a:schemeClr val="accent6"/>
+</a:lnRef>
+<a:fillRef idx="2">
+<a:schemeClr val="accent6"/>
+</a:fillRef>
+<a:effectRef idx="1">
+<a:schemeClr val="accent6"/>
+</a:effectRef>
+<a:fontRef idx="minor">
+<a:schemeClr val="dk1"/>
+</a:fontRef>
+</p:style>
+<p:txBody>
+<a:bodyPr rtlCol="0" anchor="ctr"/>
+<a:lstStyle/>
+<a:p>
+<a:pPr algn="ctr"/>
+<a:endParaRPr lang="en-IN"/>
+</a:p>
+</p:txBody>
+</p:sp>
+<p:sp>
+<p:nvSpPr>
+<p:cNvPr id="29" name="TextBox 28">
+<a:extLst>
+<a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+<a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{2FB592CE-0EB9-1773-524A-1F1F546A0020}"/>
+</a:ext>
+</a:extLst>
+</p:cNvPr>
+<p:cNvSpPr txBox="1"/>
+<p:nvPr/>
+</p:nvSpPr>
+<p:spPr>
+<a:xfrm>
+<a:off x="727127" y="1621566"/>
+<a:ext cx="2496052" cy="1538883"/>
+</a:xfrm>
+<a:prstGeom prst="rect">
+<a:avLst/>
+</a:prstGeom>
+<a:noFill/>
+</p:spPr>
+<p:txBody>
+<a:bodyPr wrap="square" rtlCol="0">
+<a:spAutoFit/>
+</a:bodyPr>
+<a:lstStyle/>
+<a:p>
+<a:endParaRPr lang="en-IN" sz="1200" b="1" dirty="0"/>
+</a:p>
+<a:p>
+<a:endParaRPr lang="en-IN" sz="1200" dirty="0"/>
+</a:p>
+<a:p>
+<a:pPr lvl="0"/>
+<a:r>
+<a:rPr lang="en-IN" b="1" dirty="0"/>
+<a:t>•</a:t>
+</a:r>
+<a:r>
+<a:rPr lang="en-IN" dirty="0"/>
+<a:t>Modbus TCP integration</a:t>
+</a:r>
+</a:p>
+<a:p>
+<a:pPr lvl="0"/>
+<a:r>
+<a:rPr lang="en-IN" b="1" dirty="0"/>
+<a:t>•</a:t>
+</a:r>
+<a:r>
+<a:rPr lang="en-IN" dirty="0"/>
+<a:t>Existing PLC  compatibility</a:t>
+</a:r>
+</a:p>
+<a:p>
+<a:pPr lvl="0"/>
+<a:r>
+<a:rPr lang="en-IN" b="1" dirty="0"/>
+<a:t>•</a:t>
+</a:r>
+<a:r>
+<a:rPr lang="en-IN" dirty="0"/>
+<a:t>Real-time data acquisition</a:t>
+</a:r>
+</a:p>
+<a:p>
+<a:pPr lvl="0"/>
+<a:r>
+<a:rPr lang="en-IN" b="1" dirty="0"/>
+<a:t>•</a:t>
+</a:r>
+<a:r>
+<a:rPr lang="en-IN" dirty="0"/>
+<a:t>SQLite historical storage</a:t>
+</a:r>
+</a:p>
+<a:p>
+<a:endParaRPr lang="en-IN" dirty="0"/>
+</a:p>
+</p:txBody>
+</p:sp>
+<p:sp>
+<p:nvSpPr>
+<p:cNvPr id="30" name="TextBox 29">
+<a:extLst>
+<a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+<a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{428B539F-1099-2AD5-AA04-ED5D6DCDC80A}"/>
+</a:ext>
+</a:extLst>
+</p:cNvPr>
+<p:cNvSpPr txBox="1"/>
+<p:nvPr/>
+</p:nvSpPr>
+<p:spPr>
+<a:xfrm>
+<a:off x="433756" y="1517904"/>
+<a:ext cx="2410028" cy="307777"/>
+</a:xfrm>
+<a:prstGeom prst="rect">
+<a:avLst/>
+</a:prstGeom>
+<a:noFill/>
+</p:spPr>
+<p:txBody>
+<a:bodyPr wrap="square" rtlCol="0">
+<a:spAutoFit/>
+</a:bodyPr>
+<a:lstStyle/>
+<a:p>
+<a:r>
+<a:rPr lang="en-IN" b="1" dirty="0"/>
+<a:t>TECHNICAL FEASIBILITY</a:t>
+</a:r>
+<a:endParaRPr lang="en-IN" dirty="0"/>
+</a:p>
+</p:txBody>
+</p:sp>
+<p:sp>
+<p:nvSpPr>
+<p:cNvPr id="11" name="TextBox 10">
+<a:extLst>
+<a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+<a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{F4F927B9-FD2C-4A5D-72D7-510AFA2F41AD}"/>
+</a:ext>
+</a:extLst>
+</p:cNvPr>
+<p:cNvSpPr txBox="1"/>
+<p:nvPr/>
+</p:nvSpPr>
+<p:spPr>
+<a:xfrm>
+<a:off x="3668746" y="1990898"/>
+<a:ext cx="2607564" cy="1169551"/>
+</a:xfrm>
+<a:prstGeom prst="rect">
+<a:avLst/>
+</a:prstGeom>
+<a:noFill/>
+</p:spPr>
+<p:txBody>
+<a:bodyPr wrap="square" rtlCol="0">
+<a:spAutoFit/>
+</a:bodyPr>
+<a:lstStyle/>
+<a:p>
+<a:pPr lvl="0"/>
+<a:r>
+<a:rPr lang="en-IN" b="1" dirty="0"/>
+<a:t>•</a:t>
+</a:r>
+<a:r>
+<a:rPr lang="en-IN" dirty="0"/>
+<a:t>₹4,000 mini-PC deployment</a:t>
+</a:r>
+</a:p>
+<a:p>
+<a:pPr lvl="0"/>
+<a:r>
+<a:rPr lang="en-IN" b="1" dirty="0"/>
+<a:t>•</a:t>
+</a:r>
+<a:r>
+<a:rPr lang="en-IN" dirty="0"/>
+<a:t>No cloud subscription</a:t>
+</a:r>
+</a:p>
+<a:p>
+<a:pPr lvl="0"/>
+<a:r>
+<a:rPr lang="en-IN" b="1" dirty="0"/>
+<a:t>•</a:t>
+</a:r>
+<a:r>
+<a:rPr lang="en-IN" dirty="0"/>
+<a:t>No licensing costs</a:t>
+</a:r>
+</a:p>
+<a:p>
+<a:pPr lvl="0"/>
+<a:r>
+<a:rPr lang="en-IN" b="1" dirty="0"/>
+<a:t>•</a:t>
+</a:r>
+<a:r>
+<a:rPr lang="en-IN" dirty="0"/>
+<a:t>Open-source technologies</a:t>
+</a:r>
+</a:p>
+<a:p>
+<a:endParaRPr lang="en-IN" dirty="0"/>
+</a:p>
+</p:txBody>
+</p:sp>
+<p:sp>
+<p:nvSpPr>
+<p:cNvPr id="16" name="Oval 15">
+<a:extLst>
+<a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+<a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{FB7B0E83-0172-C282-BFB3-7CA762F85531}"/>
+</a:ext>
+</a:extLst>
+</p:cNvPr>
+<p:cNvSpPr/>
+<p:nvPr/>
+</p:nvSpPr>
+<p:spPr>
+<a:xfrm>
+<a:off x="6135863" y="2185881"/>
+<a:ext cx="615734" cy="616367"/>
+</a:xfrm>
+<a:prstGeom prst="ellipse">
+<a:avLst/>
+</a:prstGeom>
+</p:spPr>
+<p:style>
+<a:lnRef idx="1">
+<a:schemeClr val="accent6"/>
+</a:lnRef>
+<a:fillRef idx="2">
+<a:schemeClr val="accent6"/>
+</a:fillRef>
+<a:effectRef idx="1">
+<a:schemeClr val="accent6"/>
+</a:effectRef>
+<a:fontRef idx="minor">
+<a:schemeClr val="dk1"/>
+</a:fontRef>
+</p:style>
+<p:txBody>
+<a:bodyPr rtlCol="0" anchor="ctr"/>
+<a:lstStyle/>
+<a:p>
+<a:pPr algn="ctr"/>
+<a:endParaRPr lang="en-IN"/>
+</a:p>
+</p:txBody>
+</p:sp>
+<p:sp>
+<p:nvSpPr>
+<p:cNvPr id="20" name="Oval 19">
+<a:extLst>
+<a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+<a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{D70C5799-01CE-3380-6FA8-3D274A10AD63}"/>
+</a:ext>
+</a:extLst>
+</p:cNvPr>
+<p:cNvSpPr/>
+<p:nvPr/>
+</p:nvSpPr>
+<p:spPr>
+<a:xfrm>
+<a:off x="27831" y="2141899"/>
+<a:ext cx="615734" cy="616367"/>
+</a:xfrm>
+<a:prstGeom prst="ellipse">
+<a:avLst/>
+</a:prstGeom>
+</p:spPr>
+<p:style>
+<a:lnRef idx="1">
+<a:schemeClr val="accent6"/>
+</a:lnRef>
+<a:fillRef idx="2">
+<a:schemeClr val="accent6"/>
+</a:fillRef>
+<a:effectRef idx="1">
+<a:schemeClr val="accent6"/>
+</a:effectRef>
+<a:fontRef idx="minor">
+<a:schemeClr val="dk1"/>
+</a:fontRef>
+</p:style>
+<p:txBody>
+<a:bodyPr rtlCol="0" anchor="ctr"/>
+<a:lstStyle/>
+<a:p>
+<a:pPr algn="ctr"/>
+<a:endParaRPr lang="en-IN"/>
+</a:p>
+</p:txBody>
+</p:sp>
+<p:pic>
+<p:nvPicPr>
+<p:cNvPr id="26" name="Picture 25">
+<a:extLst>
+<a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+<a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{FA9C55D0-762F-3110-1E01-D6E068AC01DE}"/>
+</a:ext>
+</a:extLst>
+</p:cNvPr>
+<p:cNvPicPr>
+<a:picLocks noChangeAspect="1"/>
+</p:cNvPicPr>
+<p:nvPr/>
+</p:nvPicPr>
+<p:blipFill>
+<a:blip r:embed="rId2"/>
+<a:stretch>
+<a:fillRect/>
+</a:stretch>
+</p:blipFill>
+<p:spPr>
+<a:xfrm>
+<a:off x="20017" y="2185881"/>
+<a:ext cx="643565" cy="528401"/>
+</a:xfrm>
+<a:prstGeom prst="rect">
+<a:avLst/>
+</a:prstGeom>
+</p:spPr>
+</p:pic>
+<p:sp>
+<p:nvSpPr>
+<p:cNvPr id="27" name="TextBox 26">
+<a:extLst>
+<a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+<a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{8BD3F335-EABA-2F0F-B431-02AB60A07DD6}"/>
+</a:ext>
+</a:extLst>
+</p:cNvPr>
+<p:cNvSpPr txBox="1"/>
+<p:nvPr/>
+</p:nvSpPr>
+<p:spPr>
+<a:xfrm>
+<a:off x="3617095" y="1482202"/>
+<a:ext cx="2390033" cy="307777"/>
+</a:xfrm>
+<a:prstGeom prst="rect">
+<a:avLst/>
+</a:prstGeom>
+<a:noFill/>
+</p:spPr>
+<p:txBody>
+<a:bodyPr wrap="square" rtlCol="0">
+<a:spAutoFit/>
+</a:bodyPr>
+<a:lstStyle/>
+<a:p>
+<a:r>
+<a:rPr lang="en-IN" b="1" dirty="0"/>
+<a:t>ECONOMIC VIABILITY</a:t>
+</a:r>
+<a:endParaRPr lang="en-IN" dirty="0"/>
+</a:p>
+</p:txBody>
+</p:sp>
+<p:sp>
+<p:nvSpPr>
+<p:cNvPr id="28" name="TextBox 27">
+<a:extLst>
+<a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+<a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{2A4164BF-9FD3-AFFA-9B6D-147BBB32B0CD}"/>
+</a:ext>
+</a:extLst>
+</p:cNvPr>
+<p:cNvSpPr txBox="1"/>
+<p:nvPr/>
+</p:nvSpPr>
+<p:spPr>
+<a:xfrm>
+<a:off x="6688632" y="1990898"/>
+<a:ext cx="2394549" cy="1169551"/>
+</a:xfrm>
+<a:prstGeom prst="rect">
+<a:avLst/>
+</a:prstGeom>
+<a:noFill/>
+</p:spPr>
+<p:txBody>
+<a:bodyPr wrap="square" rtlCol="0">
+<a:spAutoFit/>
+</a:bodyPr>
+<a:lstStyle/>
+<a:p>
+<a:pPr lvl="0"/>
+<a:r>
+<a:rPr lang="en-IN" b="1" dirty="0"/>
+<a:t>• </a:t>
+</a:r>
+<a:r>
+<a:rPr lang="en-IN" dirty="0"/>
+<a:t>Automatic connection </a:t>
+</a:r>
+<a:r>
+<a:rPr lang="en-IN" b="1" dirty="0"/>
+<a:t>•</a:t>
+</a:r>
+<a:r>
+<a:rPr lang="en-IN" dirty="0"/>
+<a:t>Signal health monitoring</a:t>
+</a:r>
+</a:p>
+<a:p>
+<a:pPr lvl="0"/>
+<a:r>
+<a:rPr lang="en-IN" b="1" dirty="0"/>
+<a:t>• </a:t>
+</a:r>
+<a:r>
+<a:rPr lang="en-IN" dirty="0"/>
+<a:t>Centralized alarm tracking</a:t>
+</a:r>
+</a:p>
+<a:p>
+<a:pPr lvl="0"/>
+<a:r>
+<a:rPr lang="en-IN" b="1" dirty="0"/>
+<a:t>• </a:t>
+</a:r>
+<a:r>
+<a:rPr lang="en-IN" dirty="0"/>
+<a:t>Easy system configuration</a:t>
+</a:r>
+</a:p>
+<a:p>
+<a:endParaRPr lang="en-IN" dirty="0"/>
+</a:p>
+</p:txBody>
+</p:sp>
+<p:sp>
+<p:nvSpPr>
+<p:cNvPr id="32" name="TextBox 31">
+<a:extLst>
+<a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+<a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{A97AC76A-BD03-DE4C-B6BA-322D837C490C}"/>
+</a:ext>
+</a:extLst>
+</p:cNvPr>
+<p:cNvSpPr txBox="1"/>
+<p:nvPr/>
+</p:nvSpPr>
+<p:spPr>
+<a:xfrm>
+<a:off x="6385539" y="1482201"/>
+<a:ext cx="2697642" cy="307777"/>
+</a:xfrm>
+<a:prstGeom prst="rect">
+<a:avLst/>
+</a:prstGeom>
+<a:noFill/>
+</p:spPr>
+<p:txBody>
+<a:bodyPr wrap="square" rtlCol="0">
+<a:spAutoFit/>
+</a:bodyPr>
+<a:lstStyle/>
+<a:p>
+<a:r>
+<a:rPr lang="en-IN" b="1"/>
+<a:t>MAINTENANCE FEASIBILITY</a:t>
+</a:r>
+<a:endParaRPr lang="en-IN" dirty="0"/>
+</a:p>
+</p:txBody>
+</p:sp>
+<p:sp>
+<p:nvSpPr>
+<p:cNvPr id="33" name="TextBox 32">
+<a:extLst>
+<a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+<a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{266D022B-EFB5-4B4F-27A3-6B47F4095482}"/>
+</a:ext>
+</a:extLst>
+</p:cNvPr>
+<p:cNvSpPr txBox="1"/>
+<p:nvPr/>
+</p:nvSpPr>
+<p:spPr>
+<a:xfrm>
+<a:off x="1682579" y="4194254"/>
+<a:ext cx="2996946" cy="1169551"/>
+</a:xfrm>
+<a:prstGeom prst="rect">
+<a:avLst/>
+</a:prstGeom>
+<a:noFill/>
+</p:spPr>
+<p:txBody>
+<a:bodyPr wrap="square" rtlCol="0">
+<a:spAutoFit/>
+</a:bodyPr>
+<a:lstStyle/>
+<a:p>
+<a:pPr lvl="0"/>
+<a:r>
+<a:rPr lang="en-IN" b="1" dirty="0"/>
+<a:t>• </a:t>
+</a:r>
+<a:r>
+<a:rPr lang="en-IN" dirty="0"/>
+<a:t>Continuous fault monitoring</a:t>
+</a:r>
+</a:p>
+<a:p>
+<a:pPr lvl="0"/>
+<a:r>
+<a:rPr lang="en-IN" b="1" dirty="0"/>
+<a:t>• </a:t>
+</a:r>
+<a:r>
+<a:rPr lang="en-IN" dirty="0"/>
+<a:t>Alerts for abnormal conditions</a:t>
+</a:r>
+</a:p>
+<a:p>
+<a:pPr lvl="0"/>
+<a:r>
+<a:rPr lang="en-IN" b="1" dirty="0"/>
+<a:t>• </a:t>
+</a:r>
+<a:r>
+<a:rPr lang="en-IN" dirty="0"/>
+<a:t>Operator verification</a:t>
+</a:r>
+</a:p>
+<a:p>
+<a:pPr lvl="0"/>
+<a:r>
+<a:rPr lang="en-IN" b="1" dirty="0"/>
+<a:t>• </a:t>
+</a:r>
+<a:r>
+<a:rPr lang="en-IN" dirty="0"/>
+<a:t>UNKNOWN state for conflicting</a:t>
+</a:r>
+</a:p>
+<a:p>
+<a:pPr lvl="0"/>
+<a:r>
+<a:rPr lang="en-IN" dirty="0"/>
+<a:t>    signals</a:t>
+</a:r>
+</a:p>
+</p:txBody>
+</p:sp>
+<p:sp>
+<p:nvSpPr>
+<p:cNvPr id="34" name="TextBox 33">
+<a:extLst>
+<a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+<a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{8B0ACD43-07C6-C494-51C4-3466E758F50B}"/>
+</a:ext>
+</a:extLst>
+</p:cNvPr>
+<p:cNvSpPr txBox="1"/>
+<p:nvPr/>
+</p:nvSpPr>
+<p:spPr>
+<a:xfrm>
+<a:off x="1591657" y="3774428"/>
+<a:ext cx="2703572" cy="307777"/>
+</a:xfrm>
+<a:prstGeom prst="rect">
+<a:avLst/>
+</a:prstGeom>
+<a:noFill/>
+</p:spPr>
+<p:txBody>
+<a:bodyPr wrap="square" rtlCol="0">
+<a:spAutoFit/>
+</a:bodyPr>
+<a:lstStyle/>
+<a:p>
+<a:r>
+<a:rPr lang="en-IN" b="1" dirty="0"/>
+<a:t>SAFETY FEASIBILITY</a:t>
+</a:r>
+<a:endParaRPr lang="en-IN" dirty="0"/>
+</a:p>
+</p:txBody>
+</p:sp>
+<p:sp>
+<p:nvSpPr>
+<p:cNvPr id="35" name="TextBox 34">
+<a:extLst>
+<a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+<a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{63836F29-A447-4956-1878-6F353C2DFA08}"/>
+</a:ext>
+</a:extLst>
+</p:cNvPr>
+<p:cNvSpPr txBox="1"/>
+<p:nvPr/>
+</p:nvSpPr>
+<p:spPr>
+<a:xfrm>
+<a:off x="5490972" y="4194253"/>
+<a:ext cx="2942000" cy="1169551"/>
+</a:xfrm>
+<a:prstGeom prst="rect">
+<a:avLst/>
+</a:prstGeom>
+<a:noFill/>
+</p:spPr>
+<p:txBody>
+<a:bodyPr wrap="square" rtlCol="0">
+<a:spAutoFit/>
+</a:bodyPr>
+<a:lstStyle/>
+<a:p>
+<a:pPr lvl="0"/>
+<a:r>
+<a:rPr lang="en-IN" b="1" dirty="0"/>
+<a:t>• </a:t>
+</a:r>
+<a:r>
+<a:rPr lang="en-IN" dirty="0"/>
+<a:t>Multi-machine integration.</a:t>
+</a:r>
+</a:p>
+<a:p>
+<a:pPr lvl="0"/>
+<a:r>
+<a:rPr lang="en-IN" b="1" dirty="0"/>
+<a:t>• </a:t>
+</a:r>
+<a:r>
+<a:rPr lang="en-IN" dirty="0"/>
+<a:t>Expandable production lines.</a:t>
+</a:r>
+</a:p>
+<a:p>
+<a:pPr lvl="0"/>
+<a:r>
+<a:rPr lang="en-IN" b="1" dirty="0"/>
+<a:t>• </a:t>
+</a:r>
+<a:r>
+<a:rPr lang="en-IN" dirty="0"/>
+<a:t>ERP integration through JSON</a:t>
+</a:r>
+</a:p>
+<a:p>
+<a:pPr lvl="0"/>
+<a:r>
+<a:rPr lang="en-IN" b="1" dirty="0"/>
+<a:t>• </a:t>
+</a:r>
+<a:r>
+<a:rPr lang="en-IN" dirty="0"/>
+<a:t>Configurable KPIs and analytics</a:t>
+</a:r>
+</a:p>
+<a:p>
+<a:endParaRPr lang="en-IN" dirty="0"/>
+</a:p>
+</p:txBody>
+</p:sp>
+<p:sp>
+<p:nvSpPr>
+<p:cNvPr id="36" name="TextBox 35">
+<a:extLst>
+<a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+<a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{044B622D-D2F5-76E2-7617-407906E359A7}"/>
+</a:ext>
+</a:extLst>
+</p:cNvPr>
+<p:cNvSpPr txBox="1"/>
+<p:nvPr/>
+</p:nvSpPr>
+<p:spPr>
+<a:xfrm>
+<a:off x="5918715" y="3768507"/>
+<a:ext cx="2809412" cy="307777"/>
+</a:xfrm>
+<a:prstGeom prst="rect">
+<a:avLst/>
+</a:prstGeom>
+<a:noFill/>
+</p:spPr>
+<p:txBody>
+<a:bodyPr wrap="square" rtlCol="0">
+<a:spAutoFit/>
+</a:bodyPr>
+<a:lstStyle/>
+<a:p>
+<a:r>
+<a:rPr lang="en-IN" b="1" dirty="0"/>
+<a:t>SCALABILITY</a:t>
+</a:r>
+<a:endParaRPr lang="en-IN" dirty="0"/>
+</a:p>
+</p:txBody>
+</p:sp>
+<p:pic>
+<p:nvPicPr>
+<p:cNvPr id="38" name="Picture 37">
+<a:extLst>
+<a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+<a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{196B9344-5101-8E46-02CB-086C79B3BE47}"/>
+</a:ext>
+</a:extLst>
+</p:cNvPr>
+<p:cNvPicPr>
+<a:picLocks noChangeAspect="1"/>
+</p:cNvPicPr>
+<p:nvPr/>
+</p:nvPicPr>
+<p:blipFill>
+<a:blip r:embed="rId3"/>
+<a:stretch>
+<a:fillRect/>
+</a:stretch>
+</p:blipFill>
+<p:spPr>
+<a:xfrm>
+<a:off x="3099396" y="2205254"/>
+<a:ext cx="552146" cy="553012"/>
+</a:xfrm>
+<a:prstGeom prst="rect">
+<a:avLst/>
+</a:prstGeom>
+</p:spPr>
+</p:pic>
+<p:pic>
+<p:nvPicPr>
+<p:cNvPr id="40" name="Picture 39">
+<a:extLst>
+<a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+<a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{5D34E13E-9EB1-4343-94ED-CF761A91ACCD}"/>
+</a:ext>
+</a:extLst>
+</p:cNvPr>
+<p:cNvPicPr>
+<a:picLocks noChangeAspect="1"/>
+</p:cNvPicPr>
+<p:nvPr/>
+</p:nvPicPr>
+<p:blipFill>
+<a:blip r:embed="rId4"/>
+<a:stretch>
+<a:fillRect/>
+</a:stretch>
+</p:blipFill>
+<p:spPr>
+<a:xfrm>
+<a:off x="6240759" y="2235339"/>
+<a:ext cx="542744" cy="522927"/>
+</a:xfrm>
+<a:prstGeom prst="rect">
+<a:avLst/>
+</a:prstGeom>
+</p:spPr>
+</p:pic>
+<p:pic>
+<p:nvPicPr>
+<p:cNvPr id="42" name="Picture 41">
+<a:extLst>
+<a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+<a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{AE325F67-47D8-EC55-DE95-32431AA56DD1}"/>
+</a:ext>
+</a:extLst>
+</p:cNvPr>
+<p:cNvPicPr>
+<a:picLocks noChangeAspect="1"/>
+</p:cNvPicPr>
+<p:nvPr/>
+</p:nvPicPr>
+<p:blipFill>
+<a:blip r:embed="rId5"/>
+<a:stretch>
+<a:fillRect/>
+</a:stretch>
+</p:blipFill>
+<p:spPr>
+<a:xfrm>
+<a:off x="1013718" y="4355019"/>
+<a:ext cx="631037" cy="631037"/>
+</a:xfrm>
+<a:prstGeom prst="rect">
+<a:avLst/>
+</a:prstGeom>
+</p:spPr>
+</p:pic>
+<p:pic>
+<p:nvPicPr>
+<p:cNvPr id="44" name="Picture 43">
+<a:extLst>
+<a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+<a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{60E9CD21-BB68-F8B1-9A32-ACCFA55B6DEF}"/>
+</a:ext>
+</a:extLst>
+</p:cNvPr>
+<p:cNvPicPr>
+<a:picLocks noChangeAspect="1"/>
+</p:cNvPicPr>
+<p:nvPr/>
+</p:nvPicPr>
+<p:blipFill>
+<a:blip r:embed="rId6"/>
+<a:stretch>
+<a:fillRect/>
+</a:stretch>
+</p:blipFill>
+<p:spPr>
+<a:xfrm>
+<a:off x="4868692" y="4391832"/>
+<a:ext cx="552792" cy="527645"/>
+</a:xfrm>
+<a:prstGeom prst="rect">
+<a:avLst/>
+</a:prstGeom>
+</p:spPr>
+</p:pic>
+<p:sp>
+<p:nvSpPr>
+<p:cNvPr id="45" name="Rectangle 44">
+<a:extLst>
+<a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+<a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{A6B22A10-7207-5F85-ECAB-ECF48DF99888}"/>
+</a:ext>
+</a:extLst>
+</p:cNvPr>
+<p:cNvSpPr/>
+<p:nvPr/>
+</p:nvSpPr>
+<p:spPr>
+<a:xfrm>
+<a:off x="727127" y="5725901"/>
+<a:ext cx="7562090" cy="411391"/>
+</a:xfrm>
+<a:prstGeom prst="rect">
+<a:avLst/>
+</a:prstGeom>
+<a:ln>
+<a:solidFill>
+<a:schemeClr val="tx1"/>
+</a:solidFill>
+</a:ln>
+</p:spPr>
+<p:style>
+<a:lnRef idx="1">
+<a:schemeClr val="accent6"/>
+</a:lnRef>
+<a:fillRef idx="2">
+<a:schemeClr val="accent6"/>
+</a:fillRef>
+<a:effectRef idx="1">
+<a:schemeClr val="accent6"/>
+</a:effectRef>
+<a:fontRef idx="minor">
+<a:schemeClr val="dk1"/>
+</a:fontRef>
+</p:style>
+<p:txBody>
+<a:bodyPr rtlCol="0" anchor="ctr"/>
+<a:lstStyle/>
+<a:p>
+<a:pPr algn="ctr"/>
+<a:endParaRPr lang="en-IN"/>
+</a:p>
+</p:txBody>
+</p:sp>
+<p:sp>
+<p:nvSpPr>
+<p:cNvPr id="46" name="TextBox 45">
+<a:extLst>
+<a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+<a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{EF45530C-2075-B20D-6FF3-DA8E916B1FB3}"/>
+</a:ext>
+</a:extLst>
+</p:cNvPr>
+<p:cNvSpPr txBox="1"/>
+<p:nvPr/>
+</p:nvSpPr>
+<p:spPr>
+<a:xfrm>
+<a:off x="1640439" y="5780242"/>
+<a:ext cx="7562090" cy="307777"/>
+</a:xfrm>
+<a:prstGeom prst="rect">
+<a:avLst/>
+</a:prstGeom>
+<a:noFill/>
+</p:spPr>
+<p:txBody>
+<a:bodyPr wrap="square" rtlCol="0">
+<a:spAutoFit/>
+</a:bodyPr>
+<a:lstStyle/>
+<a:p>
+<a:r>
+<a:rPr lang="en-IN" b="1" dirty="0"/>
+<a:t>PRACTICAL • COST-EFFECTIVE • OFFLINE-FIRST • SCALABLE</a:t>
+</a:r>
+<a:endParaRPr lang="en-IN" dirty="0"/>
+</a:p>
+</p:txBody>
+</p:sp>
+</p:spTree>
+<p:extLst>
+<p:ext uri="{BB962C8B-B14F-4D97-AF65-F5344CB8AC3E}">
+<p14:creationId xmlns:p14="http://schemas.microsoft.com/office/powerpoint/2010/main" val="2745907443"/>
+</p:ext>
+</p:extLst>
+</p:cSld>
+<p:clrMapOvr>
+<a:masterClrMapping/>
+</p:clrMapOvr>
+</p:sld>

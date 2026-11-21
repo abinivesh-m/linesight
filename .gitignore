@@ -1,0 +1,11 @@
+node_modules/
+.agents/
+logs/
+brag-output-*/
+*.pyc
+__pycache__/
+.env
+.DS_Store
+docs/*.png
+data/linesight.db.bak
+.opencode/
