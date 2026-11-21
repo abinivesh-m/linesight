@@ -142,7 +142,7 @@ dashboard shows real numbers on the first request.
 - Deck: `docs/` (Sakthi Hackathon 2.0 Round 2, 10 slides)
 - Figma file (dashboard UI): [LineSight — Dashboard UI (best)](https://www.figma.com/design/0eSUiBdjF1wwa86Dg1r121)
 - Figma file (architecture): [LineSight — Architecture & Deck Graphics](https://www.figma.com/design/KEAGgPFnxWdAHA8woCAgcX)
-- Demo video: `brag-output-2026-11-20/brag.mp4` (20 s, polished tone)
+- Demo video: `docs/demo/demo.mp4` (20 s, polished tone) + `docs/demo/poster.jpg`
 
 ## Contributing / context
 
